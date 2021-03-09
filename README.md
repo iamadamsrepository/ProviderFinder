@@ -5,7 +5,7 @@ Python API for finding streaming and purchase provider for a movie in your count
 ## Install
 
 ```bash
-pip install foobar
+pip install ProviderFinder
 ```
 
 ## Usage
